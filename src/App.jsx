@@ -9,7 +9,7 @@ function App() {
         <div className="calculetor">
           <form>
             <div className="display">
-              <input type="text" value={value} contentEditable={false} />
+              <input type="text" value={value}  />
             </div>
             <div>
               <input
